@@ -23,7 +23,7 @@ def website_check():
 
         if my_string.__contains__(my_substring):
             var = 1
-            print("Ty kurwo do roboty")
+            print("Do roboty")
         else:
             var = 0
 
